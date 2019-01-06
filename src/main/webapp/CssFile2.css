@@ -1,0 +1,19 @@
+.lastName{
+        margin:10px; /*внешние отступы*/
+}
+.name{
+    margin: 10px; /*внешние отступы*/
+}
+.password{
+    margin: 10px; /*внешние отступы*/
+}
+.password_confirm{
+    margin: 10px; /*внешние отступы*/
+}
+.input_date{
+    width: 167px;
+}
+.radius{
+    border-radius: 3px;
+    box-shadow: 3px 3px 7px black;
+}

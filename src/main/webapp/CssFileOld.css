@@ -1,0 +1,12 @@
+
+TABLE {
+    width: 700px; /* Ширина таблицы */
+    border-collapse: collapse; /* Убираем двойные линии между ячейками */
+}
+TD, TH {
+    padding: 16px; /* Отступы вокруг содержимого таблицы внутри ячейки */
+    border: 1px solid black; /* Параметры рамки */
+}
+TH {
+    background: skyblue; /* Цвет фона */
+}
